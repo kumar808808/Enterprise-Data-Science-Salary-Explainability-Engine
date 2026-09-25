@@ -5,7 +5,6 @@ An end-to-end Machine Learning pipeline estimating data science compensation usi
 
 # 💼 Enterprise Data Science Salary & Explainability Engine
 
-🔗 **Live Application Demo:** [Insert Your Heroku URL Here]
 
 ![Streamlit App Screenshot](images/salary_pred.png)
 ![Streamlit App Screenshot](images/pred_breakdown.png)
